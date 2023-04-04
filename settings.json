@@ -1,0 +1,22 @@
+{
+	"CompetitionIds": [
+		"42e160fc-2651-4fa5-9a9b-829199e27adb"
+	],
+	"PagesRange": [
+		1,
+		2
+	],
+	"PageSize": 10,
+	"Verbose": true,
+	"MatchesParallels": 8,
+	"WaitIf403ErrorSecs": 10,
+	"RepeatAfterFinish": true,
+	"DelayBeforeRepeatSecs": 60,
+	"SaveDemoFiles": true,
+	"FaceitApiKey": "YOUR_KEY",
+	"MysqlUser": "root",
+	"MysqlPassword": "root",
+	"MysqlHost": "localhost",
+	"MysqlPort": "3306",
+	"MysqlDbName": "testevents"
+}
